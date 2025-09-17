@@ -2,15 +2,15 @@
 
 ###
 
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnbnd5MHF1dzU4NHFuZGkwMXB6aXp1YzduY2czdnVlOWswNGIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+
+###
+
 <p align="left"></p>
 
 ###
 
 <h2 align="left">💻 Turning coffee into commits <br>🛠️ I break things so I can fix them better.<br>🚀 Currently pretending to know what I’m doing (spoiler: it usually works out).<br>📚 Learning, building, and occasionally googling my own errors.</h2>
-
-###
-
-<p align="left"></p>
 
 ###
 
@@ -42,10 +42,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vVIBHORj/vVIBHORj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vVIBHORj/vVIBHORj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vVIBHORj/vVIBHORj/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vVIBHORj.vVIBHORj&"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/VIBe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=VIBe&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
