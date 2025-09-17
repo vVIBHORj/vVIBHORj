@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnbnd5MHF1dzU4NHFuZGkwMXB6aXp1YzduY2czdnVlOWswNGIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+<br clear="both">
+
+<img align="right" height="157" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnbnd5MHF1dzU4NHFuZGkwMXB6aXp1YzduY2czdnVlOWswNGIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
 ###
 
@@ -14,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">I code with</h1>
 
 ###
 
@@ -43,15 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vVIBHORj.vVIBHORj&"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/VIBe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=VIBe&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vVIBHORj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="134" alt="languages graph"  />
 </div>
 
 ###
