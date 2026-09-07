@@ -60,30 +60,6 @@
 </div>
 
 ---
-
-### 🔥 Featured Projects
-
-**🔍 ChatLens — Corrective-RAG Chat Analyzer**
-Fully local CRAG pipeline that grades its own retrievals and retries when they suck, plus a Hinglish-aware sentiment engine validated on 6,000+ real chats. 100% offline, ₹0 API cost — because not everything needs to phone home to OpenAI.
-
-**🏥 SWASTHA — AI Telehealth for Underserved Communities**
-Disease prediction, AI chatbot, mental health assessments — scoped and shipped with a 4-person team, boosting delivery productivity by 48%. Integrated with Netmeds and Dr. Lal PathLabs, because diagnostics without partnerships are just guesses.
-
-**👵 SANGAM — Elder Care & Community Platform**
-Sized a $53–58B market, found the white space nobody else saw (clinical safety net *and* actual community), and scoped a phased MVP that deliberately cut features to reduce onboarding friction. Restraint: also a product skill.
-
-**🦠 Malware Analysis System (MAS)**
-20+ engineered features, scoring-based detection, 56% better security posture, 33% fewer classification errors. Turns out `sklearn` is scarier than most malware.
-
----
-
-### 🏆 Hackathons & Wins
-
-```diff
-+ Smart India Hackathon — Rank 4 / 450+ teams (HealioQuest: AI ed-tech, +39% engagement, +41% outcomes)
-+ Ideathon 2.0 — 1st Place (AI-driven healthcare concept)
-```
-
 ---
 
 ### 🛠️ Tech Arsenal
