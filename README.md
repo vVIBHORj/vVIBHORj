@@ -41,8 +41,7 @@
 * 🔎 Currently: turning a Neo4j pipeline into something that doesn't fall over at a million records
 * 💬 Ask me about **Corrective RAG**, **Bayesian trust scoring**, or why your MVP has too many features
 
-> **My development philosophy:**
-> *Scope → Build → Break → Debug → Ship → Write a case study about it 🔁*
+
 
 ---
 
