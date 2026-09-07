@@ -123,8 +123,6 @@
   </picture>
 </div>
 
-> 💡 This animates via a GitHub Action (from [Platane/snk](https://github.com/Platane/snk)) — set it up on your own repo and it auto-generates from your real contribution graph.
-
 ---
 
 ### 🐈 Because every README needs one of these
