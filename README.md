@@ -87,22 +87,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vVIBHORj&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vVIBHORj&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="165"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vVIBHORj/vVIBHORj/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
-
----
 
 ### 🎯 Current Status
 
