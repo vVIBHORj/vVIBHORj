@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnbnd5MHF1dzU4NHFuZGkwMXB6aXp1YzduY2czdnVlOWswNGIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="180"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnbnd5MHF1dzU4NHFuZGkwMXB6aXp1YzduY2czdnVlOWswNGIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="180" alt="Coding GIF"/>
 </p>
 
 ---
 
-### 🧑‍💻 A little about me
+### 🧑‍💻 A Little About Me
 
 ```text
 ☕ Coffee        →   Code
@@ -24,27 +24,27 @@
 🚀 Project       →   "Why not make it better?"
 ```
 
-* 🧠 Exploring **AI, Machine Learning & Generative AI**
-* 🔎 Building **RAG systems & AI-powered applications**
-* 🏥 Interested in **AI + Healthcare**
-* 🛠️ I enjoy turning weird ideas into working projects
-* 📚 Currently learning something I probably didn't need to learn... yet
-* 🐛 90% debugging, 10% pretending I knew the solution
+- 🧠 Exploring **AI, Machine Learning & Generative AI**
+- 🔎 Building **RAG systems & AI-powered applications**
+- 🏥 Interested in **AI + Healthcare**
+- 🛠️ I enjoy turning weird ideas into working projects
+- 📚 Currently learning something I probably didn't need to learn... yet
+- 🐛 90% debugging, 10% pretending I knew the solution
 
-> **My development philosophy:**
+> **My development philosophy:**  
 > *Build → Break → Debug → Learn → Repeat 🔁*
 
 ---
 
-### ⚡ What I'm currently building
+### ⚡ What I'm Currently Building
 
 <div align="center">
 
-|      🧠 AI      |   🏥 Healthcare  |       🚀 Product       |
-| :-------------: | :--------------: | :--------------------: |
-|  RAG & LLM Apps |  AI Health Tools |    AI Product Ideas    |
-|     Local AI    |   Medical Data   | User-Centric Solutions |
-| Semantic Search | Health Analytics |     Experimentation    |
+| 🧠 AI | 🏥 Healthcare | 🚀 Product |
+| :---: | :---: | :---: |
+| RAG & LLM Apps | AI Health Tools | AI Product Ideas |
+| Local AI | Medical Data | User-Centric Solutions |
+| Semantic Search | Health Analytics | Experimentation |
 
 </div>
 
@@ -74,17 +74,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
 </p>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vVIBHORj&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vVIBHORj&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vVIBHORj&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=vVIBHORj&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=vVIBHORj&theme=neon&hide_border=false" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vVIBHORj&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vVIBHORj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👀 Profile Views
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vVIBHORj&icon=0&color=0" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -92,13 +106,13 @@
 
 <p align="center">
 
-`LLMs`   `RAG`   `Ollama`   `LangGraph`   `Vector DBs`
-`Machine Learning`   `NLP`   `Semantic Search`   `AI Agents`
+`LLMs` &nbsp; `RAG` &nbsp; `Ollama` &nbsp; `LangGraph` &nbsp; `Vector DBs`
+
+`Machine Learning` &nbsp; `NLP` &nbsp; `Semantic Search` &nbsp; `AI Agents`
 
 </p>
 
 ---
-
 
 ### 🎯 Current Status
 
@@ -113,8 +127,4 @@
 
 <p align="center">
   <b>✨ If you find something interesting here, feel free to explore!</b>
-</p>
-
-<p align="center">
-  <i>Made with ☕, curiosity, and an unreasonable number of browser tabs.</i>
 </p>
