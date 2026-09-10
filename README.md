@@ -92,13 +92,6 @@
 
 </p>
 
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vVIBHORj&icon=0&color=0" alt="Profile Views"/>
-</p>
 
 ---
 
