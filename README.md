@@ -1,4 +1,4 @@
-@@ -1,130 +1,123 @@
+
 <h1 align="center">👋 Hey, I'm Vibhor!</h1>
 
 <h3 align="center">
