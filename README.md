@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnbnd5MHF1dzU4NHFuZGkwMXB6aXp1YzduY2czdnVlOWswNGIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="180" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhreGwydXZkZWEzd205N3dibmo3cmMweWl3NG9pZWpoMWZ1N25kcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" height="180" alt="Coding GIF"/>
 </p>
 
 ---
