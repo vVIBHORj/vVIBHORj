@@ -223,6 +223,4 @@ Building and testing ideas around **AI, communities, healthcare and consumer pro
 <b>✨ Build something interesting. Learn something new. Repeat.</b>
 </p>
 
-<p align="center">
-<i>Thanks for stopping by! 🚀</i>
-</p>
+
