@@ -5,11 +5,13 @@
 </h3>
 
 <p align="center">
-<i>Turning ideas into products, experiments, and occasionally things that actually work. 😎</i>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNubzVkNTdmendnMTZzZ2cyczIxMTBqeWZrNndyZTZncjVidHg2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Da7tyT3iQ1gKK1MKiK/giphy.gif" height="180" alt="Coding GIF"/>
 </p>
 
+---
+
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhreGwydXZkZWEzd205N3dibmo3cmMweWl3NG9pZWpoMWZ1N25kcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" height="180" alt="Coding GIF"/>
+<i>Turning ideas into products, experiments, and occasionally things that actually work. 😎</i>
 </p>
 
 ---
