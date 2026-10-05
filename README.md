@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWNiYWxtYjhtdWZuOGw0b3RleTFmNjRmdjF2dndtdGViZ204aWplNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzFjamVnaGtwZ3o4NTVjaTZ3MzRtNmNsM2Y3YnB5NHp0cjd2M3Q1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif" alt="Coding GIF"/>
 </p>
 
 ---
