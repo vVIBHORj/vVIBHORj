@@ -37,7 +37,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 The AI / ML Engineer Lens
+### 🔬 AI / ML Engineer Lens
 * **What I obsess over:** Retrieval quality, grounded generation, model latency, token budgets, and 0-API-cost local inference.
 * **Architecture Style:** Corrective RAG (CRAG), multi-model routing, fallback graders, Neo4j knowledge graphs, and Hinglish NLP.
 * **Pet Peeve:** Fragile LLM wrappers that break the moment a prompt shifts by 2 tokens.
@@ -45,7 +45,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🚀 The Product Manager Lens
+### 🚀 Product Lens
 * **What I obsess over:** Customer discovery, friction-free onboarding, market sizing (TAM/SAM), cognitive load UX, and shipping MVPs.
 * **Decision Framework:** Prioritization (RICE/MoSCoW), PRD writing, unit economics, and data-backed feature roadmaps.
 * **Pet Peeve:** Building features nobody asked for just because a cool new model dropped on Hugging Face.
