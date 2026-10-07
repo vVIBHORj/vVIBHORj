@@ -76,18 +76,7 @@
 
 <br/>
 
-## 🚀 Featured Work
 
-<div align="center">
-
-<a href="https://github.com/vVIBHORj/ChatLens-RAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vVIBHORj&repo=ChatLens-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="48%" alt="ChatLens-RAG"/></a>
-<a href="https://github.com/vVIBHORj/cost-aware-LLM-router"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vVIBHORj&repo=cost-aware-LLM-router&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="48%" alt="cost-aware-LLM-router"/></a>
-<a href="https://github.com/vVIBHORj/sangam-application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vVIBHORj&repo=sangam-application&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="48%" alt="sangam-application"/></a>
-<a href="https://github.com/vVIBHORj/onion-keyword-crawler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vVIBHORj&repo=onion-keyword-crawler&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="48%" alt="onion-keyword-crawler"/></a>
-<a href="https://github.com/vVIBHORj/Malware-analysis-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vVIBHORj&repo=Malware-analysis-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="48%" alt="Malware-analysis-system"/></a>
-<a href="https://github.com/vVIBHORj/Lip_Net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vVIBHORj&repo=Lip_Net&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="48%" alt="Lip_Net"/></a>
-
-</div>
 
 <br/>
 
