@@ -5,7 +5,7 @@
   - Numbers over adjectives: every claim comes from the resumes
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:5b21b6,100:8b5cf6&text=Vibhor%20Jain&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Diet%20coke%20with%20espresso%20and%20lemon&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="VIBe banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:5b21b6,100:8b5cf6&text=VIBe%20&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Diet%20coke%20with%20espresso%20and%20lemon&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="VIBe banner"/>
 
 <div align="center">
 
