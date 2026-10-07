@@ -2,7 +2,7 @@
   Design notes
   - Single accent: violet (#8b5cf6) on GitHub-dark neutrals (#0d1117 / #161b22)
   - Two "modes" (AI builder / product thinker) mirrored in every section
-  - Numbers over adjectives: every claim comes from the resumes or the repos
+  - Numbers over adjectives: every claim comes from the resumes
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:5b21b6,100:8b5cf6&text=VIBe%20&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Diet%20coke%20with%20espresso%20and%20lemon&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="VIBe banner"/>
@@ -13,6 +13,7 @@
 
 ![AI Engineer](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-8b5cf6?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22)
 ![Product](https://img.shields.io/badge/Aspiring-AI%20Product%20Manager-8b5cf6?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=161b22)
+
 
 </div>
 
@@ -90,19 +91,6 @@
 
 <br/>
 
-### 🧾 One line each
-
-| Repo | What it is |
-|:---|:---|
-| 🧠 [**ChatLens-RAG**](https://github.com/vVIBHORj/ChatLens-RAG) | Fully local Corrective-RAG over WhatsApp chats: self-grading retrieval, groundedness checks, Hinglish-aware sentiment, zero API cost. |
-| ⚡ [**cost-aware-LLM-router**](https://github.com/vVIBHORj/cost-aware-LLM-router) | Quality-constrained routing across Qwen3 1.7B / 4B / 8B: send each prompt to the cheapest model likely to answer it well *(early development)*. |
-| 🧓 [**sangam-application**](https://github.com/vVIBHORj/sangam-application) | React 19 + TypeScript elder-care platform with senior, family and caregiver experiences, built voice-first and accessibility-first. |
-| 🕸️ [**onion-keyword-crawler**](https://github.com/vVIBHORj/onion-keyword-crawler) | Keyword-driven crawler that searches multiple `.onion` engines and follows relevant pages, saving progress as it goes, for authorized research. |
-| 🛡️ [**Malware-analysis-system**](https://github.com/vVIBHORj/Malware-analysis-system) | Agent-less, signature-free Windows scanner that scores system health from 20+ OS and network features. |
-| 👄 [**Lip_Net**](https://github.com/vVIBHORj/Lip_Net) | Scaled-down LipNet (3D CNN + BiGRU + CTC) that reads lips from video, with a Streamlit demo. |
-
-<br/>
-
 <details open>
 <summary><b>🧠 ChatLens — Corrective-RAG chat analyzer</b> &nbsp;·&nbsp; <i>flagship</i></summary>
 <br/>
@@ -121,19 +109,19 @@
 </details>
 
 <details>
-<summary><b>⚡ Cost-Aware LLM Router</b> &nbsp;·&nbsp; <i>in progress</i></summary>
+<summary><b>⚡ Cost-Aware LLM Router</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=a78bfa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=a78bfa)
 ![DuckDB](https://img.shields.io/badge/DuckDB-161b22?style=flat-square&logo=duckdb&logoColor=a78bfa)
-![Pydantic](https://img.shields.io/badge/Pydantic-161b22?style=flat-square&logo=pydantic&logoColor=a78bfa)
+![LightGBM](https://img.shields.io/badge/LightGBM-161b22?style=flat-square&logo=lightgbm&logoColor=a78bfa)
 
 | | |
 |---|---|
-| **🛠️ Engineering** | Config-driven foundation for routing across a **3-tier Qwen3** pool (1.7B / 4B / 8B, served locally via vLLM) under a policy of *cheapest model that clears a 0.80 quality target*, with a strong-model fallback. |
-| **📊 Benchmark** | **2,300-prompt** design (2,000 core across 8 task categories + 300 held-out stress prompts) with strict Pydantic validation, a leakage guard and provenance on every prompt. |
-| **🚀 Product** | Phase 1 of 6 is done: schemas, policy and ingestion. Next up: model runners, scoring, the trained router and a FastAPI service. |
+| **🛠️ Engineering** | Routes prompts across a **3-tier Qwen3** pool using per-model quality predictors, trained on a ~2,000-prompt benchmark (reasoning, coding, factuality). |
+| **📊 Data** | Outcome-matrix pipeline logs quality, tokens, latency and cost into a versioned **DuckDB/Parquet** telemetry store. |
+| **🚀 Product** | Benchmarked against fixed-tier, heuristic and TF-IDF routers: the question isn't "which model is best", it's "which model is *worth it* for this prompt". |
 
 </details>
 
@@ -142,15 +130,14 @@
 <br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React%2019-161b22?style=flat-square&logo=react&logoColor=a78bfa)
-![Vite](https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=a78bfa)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-161b22?style=flat-square&logo=target&logoColor=a78bfa)
 ![UX Research](https://img.shields.io/badge/UX%20Psychology-161b22?style=flat-square&logo=figma&logoColor=a78bfa)
 
 | | |
 |---|---|
 | **🧭 Strategy** | Sized a **$53–58B** market (→ **$114.6B by 2034**) and found the white space: no one pairs a clinical safety net with a real peer community. |
 | **📐 Scoping** | Phased MVP with dual senior/caregiver accounts, medication reminders, SOS alerts and a community feed. Companion-matching and video were cut on purpose to reduce onboarding complexity. |
-| **🎨 UX** | Psychology-grounded design system (vision, cognitive load, motor control, trust) turning ageing research into concrete requirements, such as 56px+ touch targets and voice-first interaction. |
+| **🎨 UX** | Psychology-grounded design system (vision, cognitive load, motor control, trust) turning ageing research into concrete requirements. |
 
 </details>
 
@@ -159,8 +146,8 @@
 <br/>
 
 - **🔍 onion-keyword-crawler**: OSINT / threat-intel tool that searches multiple `.onion` engines, then recursively crawls keyword-relevant pages, with incremental JSON persistence so interrupted runs lose nothing. Built for authorized research.
-- **🛡️ Malware-analysis-system**: Agent-less Windows security assessment engine. Weighted scoring over 20+ OS and network features (risky ports, startup persistence, AV status, DLL/PE/LNK checks), with Scikit-learn for model experiments and APScheduler for scheduled scans.
-- **👄 Lip_Net**: Implementation of the LipNet paper (*End-to-End Sentence-Level Lipreading*) adapted to a small dataset: 3D convolutions, bidirectional GRUs and CTC loss.
+- **🛡️ Malware-analysis-system**: Feature-based ML detector with 20+ engineered features and scoring-based prioritization (Scikit-learn, MySQL).
+- **👄 Lip_Net**: Deep-learning notebook exploring lip reading from video.
 
 </details>
 
