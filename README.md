@@ -13,7 +13,7 @@
 
 ![AI Engineer](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-8b5cf6?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22)
 ![Product](https://img.shields.io/badge/Aspiring-AI%20Product%20Manager-8b5cf6?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=161b22)
-![Class](https://img.shields.io/badge/B.Tech%20CSE-CGPA%208.51-8b5cf6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=161b22)
+
 
 </div>
 
@@ -195,37 +195,6 @@
 `Roadmapping` `PRDs` `MVP Scoping` `Market Sizing` `Competitive Analysis` `User Research` `Agile / Scrum`
 
 </div>
-
-<br/>
-
-## 🧳 Experience
-
-<table>
-<tr>
-<td width="140" valign="top"><b>Enalytechs</b><br/><sub>Oct 2025 → Jul 2026</sub></td>
-<td>
-
-**AI (NLP) Developer** · **Product & AI Intern**
-
-- 🧬 Shipped an NLP psychometric profiling pipeline inferring personality traits from unstructured text, hitting **89%** accuracy on labeled validation data
-- 🕸️ Architected a **Neo4j** pipeline with Bloom-filter dedup and checkpoint/resume, so failures no longer trigger full reprocessing across millions of records
-- ⚡ Replaced Selenium traversal with JS-based DOM extraction and adaptive scrolling, substantially cutting runtime
-- 🔎 Scoped and shipped a keyword-driven discovery tool, aligning eng, data and stakeholders through Jira and Figr AI
-- 📉 Built a 6-factor Bayesian / Kalman-filter trust-scoring framework for interaction data
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏆 Wins
-
-| | |
-|---|---|
-| 🥇 **Ideathon 2.0**: 1st place | AI-driven healthcare product concept, ahead of multidisciplinary teams |
-| 🎖️ **Smart India Hackathon**: Rank 4 / 450+ teams | **SWASTHA**, AI telehealth for underserved communities, integrating ML diagnostics with Netmeds and Dr. Lal PathLabs |
-| 🎓 **Certifications** | DeepLearning.AI (TensorFlow, NLP) · UC San Diego (Algorithmic Toolbox) |
 
 <br/>
 
