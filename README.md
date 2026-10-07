@@ -1,54 +1,79 @@
-<div align="center">
+<h1 align="center">Diet coke with espresso and lemon</h1>
 
-# 🥤 Diet coke with espresso and lemon
+<h3 align="center">
+🧠 AI Builder &nbsp;•&nbsp; 💻 Developer &nbsp;•&nbsp; 🚀 Product Thinker
+</h3>
 
-### 🧠 AI/ML Engineer &nbsp;×&nbsp; 🚀 AI Product Thinker
-**Translating messy raw data & ambiguous ideas into production AI that people actually use.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vibhor--jain44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhor-jain44)
-[![GitHub](https://img.shields.io/badge/GitHub-vVIBHORj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vVIBHORj)
-[![Email](https://img.shields.io/badge/Email-vibhorjain0444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhorjain0444@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Status-Shipping%20%26%20Iterating-00C853?style=for-the-badge&logo=statuspage&logoColor=white)](#)
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bXE0bTc3NzI5OWpqNzUxYm9hNGdsYWw2dXprM3lzcGdtYm15YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Da7tyT3iQ1gKK1MKiK/giphy.gif" alt="Coding GIF" width="480" style="border-radius: 12px;"/>
-
-<p>
-<i>"Turning caffeine into working prototypes, zero-cost architectures, and products that don't hallucinate."</i> 😎
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bXE0bTc3NzI5OWpqNzUxYm9hNGdsYWw2dXprM3lzcGdtYm15YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Da7tyT3iQ1gKK1MKiK/giphy.gif" alt="Coding GIF"/>
 </p>
 
 ---
 
-<!-- Quick Stat Badges -->
-[![SIH Rank](https://img.shields.io/badge/Smart%20India%20Hackathon-Rank%204%20%2F%20450%2B%20Teams-FF6D00?style=flat-square&logo=target&logoColor=white)](#)
-[![Ideathon](https://img.shields.io/badge/Ideathon%202.0-1st%20Place%20Winner-FFD700?style=flat-square&logo=trophy&logoColor=black)](#)
-[![Bennett Univ](https://img.shields.io/badge/Bennett%20University-B.Tech%20CSE%20%7C%208.51%20CGPA-4A90E2?style=flat-square&logo=academia&logoColor=white)](#)
-
-</div>
+<p align="center">
+<i>Turning ideas into products, experiments, and occasionally things that actually work. 😎</i>
+</p>
 
 ---
 
-## ⚡ The Dual Perspective (Why Choose When You Can Do Both?)
+## 🧑‍💻 About Me
 
-> *"Yes, I know what a RICE score and TAM sizing look like. Yes, I can also debug your LangGraph state graph and run batch inference locally at 2 AM."*
+```text
+☕ Coffee        →   Code
+💡 Random idea   →   Let's build it
+🐛 Bug           →   Debug it
+🤖 AI            →   Automate it
+🚀 Project       →   Make it better
+```
 
-<table width="100%">
+* 🧠 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
+* 🔎 Building **RAG systems, LLM applications & AI agents**
+* ⚡ Interested in **local AI, semantic search & intelligent systems**
+* 🚀 Exploring **product development, startups & AI-powered products**
+* 🛠️ I enjoy turning unconventional ideas into working prototypes
+* 📚 Constantly learning something new — usually something I didn't plan to learn
+
+> **Build → Break → Debug → Learn → Repeat 🔁**
+
+---
+
+## ⚡ What I'm Working On
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🔬 AI / ML Engineer Lens
-* **What I obsess over:** Retrieval quality, grounded generation, model latency, token budgets, and 0-API-cost local inference.
-* **Architecture Style:** Corrective RAG (CRAG), multi-model routing, fallback graders, Neo4j knowledge graphs, and Hinglish NLP.
-* **Pet Peeve:** Fragile LLM wrappers that break the moment a prompt shifts by 2 tokens.
+### 🧠 AI & ML
+
+RAG Systems
+LLM Applications
+AI Agents
+Semantic Search
+Local AI
 
 </td>
-<td width="50%" valign="top">
 
-### 🚀 Product Lens
-* **What I obsess over:** Customer discovery, friction-free onboarding, market sizing (TAM/SAM), cognitive load UX, and shipping MVPs.
-* **Decision Framework:** Prioritization (RICE/MoSCoW), PRD writing, unit economics, and data-backed feature roadmaps.
-* **Pet Peeve:** Building features nobody asked for just because a cool new model dropped on Hugging Face.
+<td align="center" width="33%">
+
+### 🚀 Product
+
+AI Products
+User-Centric Solutions
+Product Experiments
+Startup Ideas
+Rapid Prototyping
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔬 Research
+
+Machine Learning
+NLP
+Computer Vision
+AI Systems
+Experimentation
 
 </td>
 </tr>
@@ -56,13 +81,148 @@
 
 ---
 
-## 🧑‍💻 The Daily Loop
+## 🛠️ Tech Stack
 
-```bash
-while (alive) {
-    identify_user_pain();      # Product Discovery & Market Sizing
-    architect_ai_system();     # LangGraph + Local LLMs + Vector DBs
-    optimize_token_economics();# $0.00 API bills via smart routing
-    ship_to_users();           # Figma → Code → Telemetry
-    drink_iced_caffeine();     # Diet coke + espresso + lemon 🍋
-}
+### 👨‍💻 Languages
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
+</p>
+
+### 🔧 Tools & Development
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="Blender"/>
+</p>
+
+---
+
+## 🤖 AI Playground
+
+<p align="center">
+
+`LLMs`   `RAG`   `Ollama`   `LangChain`   `LangGraph`
+
+`Vector Databases`   `Embeddings`   `Semantic Search`
+
+`Machine Learning`   `NLP`   `Computer Vision`   `AI Agents`
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+### 🧠 ChatLens-RAG
+
+A local, privacy-focused **WhatsApp conversation analyzer** powered by RAG and local LLMs.
+
+`Python` `Ollama` `Qwen3` `Chroma` `RAG`
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ Cost-Aware LLM Router
+
+An intelligent routing system that selects LLMs based on **quality, cost and latency**.
+
+`Python` `LLMs` `Routing` `Benchmarking`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🔎 AI / NLP Experiments
+
+Exploring **semantic search, embeddings, NLP pipelines and intelligent retrieval systems**.
+
+`NLP` `Embeddings` `Transformers`
+
+</td>
+
+<td align="center" width="50%">
+
+### 🚀 Product Experiments
+
+Building and testing ideas around **AI, communities, healthcare and consumer products**.
+
+`AI` `Product` `Startups`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vVIBHORj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVIBHORj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=vVIBHORj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🧩 Currently
+
+```diff
++ Building AI systems
++ Experimenting with LLMs
++ Learning product development
++ Exploring startup ideas
++ Researching new technologies
++ Breaking things
++ Fixing things
+```
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+<b>✨ Build something interesting. Learn something new. Repeat.</b>
+</p>
+
+
