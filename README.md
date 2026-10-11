@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/removed_bg.png" width="100%" alt="Vibhor — AI Systems & Product Architecture" />
+<img src="assets/removed_bg.png" width="100%" alt="Vibhor &mdash; AI Systems & Product Architecture" />
 
 # VIBHOR
 ### AI / ML Engineer &middot; AI Product Thinker
@@ -67,7 +67,7 @@
 
 ## / VERIFIED IMPACT
 
-| 89% | Millions | 6,000+ | #4 / 450+ | 1st Place | $53B–$58B |
+| 89% | Millions | 6,000+ | #4 / 450+ | 1st Place | $53B-$58B |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Prediction accuracy on psychometric NLP model | Records processed by resumable Neo4j pipeline | Real Hinglish messages validated for sentiment | Smart India Hackathon national standing | Ideathon 2.0 (Healthcare AI) | Elder-care market sized for SANGAM |
 
@@ -119,7 +119,7 @@
 
 | Dimension | Implementation Details |
 | :--- | :--- |
-| **Strategy** | Sized a **$53B–$58B** market opportunity (projected to **$114.6B by 2034**) and identified the unmet white space: uniting clinical safety nets with authentic peer communities. |
+| **Strategy** | Sized a **$53B-$58B** market opportunity (projected to **$114.6B by 2034**) and identified the unmet white space: uniting clinical safety nets with authentic peer communities. |
 | **Scoping** | Phased MVP supporting dual senior/caregiver accounts, schedule-based medication adherence, SOS dispatch, and a community feed. Intentionally deferred video and matching modules to minimize onboarding friction. |
 | **UX** | Design system rooted in geriatric cognitive psychology (visual contrast, motor control, memory overhead, trust signaling). |
 
@@ -222,21 +222,14 @@
 
 <img src="assets/quotes-frame.svg" width="680" alt="Philosophical Maxims" />
 
+<br/><br/>
+
+<sub><i>vVibhorj &middot; Systems & Product Architecture</i></sub>
+
 </div>
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td align="left" valign="bottom" style="border: none;">
-
+<div align="left">
 <img src="assets/frame.png" width="150" alt="Corner ornament" />
-
-</td>
-<td align="right" valign="bottom" style="border: none;">
-
-<sub><i>vVibhorj &middot; Systems & Product Architecture</i></sub>
-
-</td>
-</tr>
-</table>
+</div>
