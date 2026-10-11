@@ -1,63 +1,62 @@
+<!--
+  Design notes
+  - Single accent: violet (#8b5cf6) on GitHub-dark neutrals (#0d1117 / #161b22)
+  - Two "modes" (AI builder / product thinker) mirrored in every section
+  - Numbers over adjectives: every claim comes from the resumes
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:5b21b6,100:8b5cf6&text=VIBe%20&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Diet%20coke%20with%20espresso%20and%20lemon&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="VIBe banner"/>
+
 <div align="center">
 
-<img src="assets/removed_bg.png" width="100%" alt="Vibhor &mdash; AI Systems & Product Architecture" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=AI+%2F+ML+engineer+who+ships+%F0%9F%A7%A0;Product+brain+with+a+builder%27s+hands+%F0%9F%9A%80;RAG+%E2%80%A2+LLM+evals+%E2%80%A2+graph+pipelines;Local-first.+Grounded.+User-obsessed.)](https://github.com/vVIBHORj)
 
-# VIBHOR
-### AI / ML Engineer &middot; AI Product Thinker
+![AI Engineer](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-8b5cf6?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22)
+![Product](https://img.shields.io/badge/Aspiring-AI%20Product%20Manager-8b5cf6?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=161b22)
 
-[![AI / ML Engineer](https://img.shields.io/badge/AI%20%2F%20ML-Engineer-000000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22)](https://github.com/vVIBHORj)
-[![AI Product Manager](https://img.shields.io/badge/Product-AI%20Manager-000000?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=161b22)](https://github.com/vVIBHORj)
-[![Systems Architect](https://img.shields.io/badge/Systems-Local--First%20%26%20Graphs-000000?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=161b22)](https://github.com/vVIBHORj)
 
 </div>
 
 <br/>
 
-## / OVERVIEW
+## ⚡ TL;DR
 
-> Building AI systems while defining what is worth building. Writing the LangGraph architecture, validating the evaluation metrics, and authoring the PRD behind it.
+> I build AI systems **and** decide what's worth building. Same person writes the LangGraph pipeline and the PRD for it.
 
 ```diff
-+ Engineering -> Corrective RAG, LLM evals, graph data pipelines, psychometric NLP
-+ Product     -> Market discovery, MVP scoping, user psychology, trust metrics
-+ Discipline  -> Hypothesis -> Prototype -> Benchmark -> Verify -> Ship
++ Engineer  →  RAG, LLM evaluation, graph data pipelines, ML models
++ Product   →  discovery, MVP scoping, roadmaps, trust metrics, GTM
++ Mindset   →  build → break → debug → learn → repeat 🔁
 ```
 
 <br/>
 
-## / TWO MODES, ONE MIND
+## 🎛️ Two Modes, One Brain
 
 <table>
 <tr>
-<td width="36%" valign="top">
+<td width="50%" valign="top">
 
-### Builder Mode
-**Systems & Implementation**
+### 🧠 Builder mode
+**What I ship**
 
-- Corrective-RAG pipelines with groundedness checks
-- Fault-tolerant data systems on **Neo4j**
-- LLM evaluation & cost-quality model routing
-- NLP for code-mixed (Hinglish) text
-- Bayesian and Kalman-filter trust scoring
-
-</td>
-<td width="36%" valign="top">
-
-### Product Mode
-**Strategy & Scoping**
-
-- TAM/SAM sizing and market opportunity discovery
-- PRDs, MVP scoping, and ruthless prioritization
-- Cognitive load and psychology-grounded UX
-- Empirical trust metrics before feature additions
-- Engineering, data, and stakeholder alignment
+- 🔎 Corrective-RAG pipelines with groundedness checks
+- 🕸️ Fault-tolerant data systems on **Neo4j**
+- 🧪 LLM evaluation & cost/quality routing
+- 🗣️ NLP for code-mixed (Hinglish) text
+- 📉 Bayesian / Kalman-filter trust scoring
 
 </td>
-<td width="28%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="assets/ascii_art.png" width="100%" alt="Classical Thinker & Builder" />
+### 🚀 Product mode
+**How I decide**
 
-<sub><i>Theoretical inquiry grounded in code.</i></sub>
+- 🧭 Market sizing, positioning & white-space hunting
+- 📐 PRDs, MVP scoping, ruthless prioritization
+- 🧑‍🤝‍🧑 User research & psychology-grounded UX
+- 📊 Success metrics before features
+- 🤝 Aligning eng, data & stakeholders via Jira
 
 </td>
 </tr>
@@ -65,171 +64,165 @@
 
 <br/>
 
-## / VERIFIED IMPACT
+## 📈 Receipts
 
-| 89% | Millions | 6,000+ | #4 / 450+ | 1st Place | $53B-$58B |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Prediction accuracy on psychometric NLP model | Records processed by resumable Neo4j pipeline | Real Hinglish messages validated for sentiment | Smart India Hackathon national standing | Ideathon 2.0 (Healthcare AI) | Elder-care market sized for SANGAM |
+<div align="center">
+
+| 🎯 **89%** | 🗄️ **Millions** | 💬 **6,000+** | 🏆 **#4 / 450+** | 🥇 **1st** | 🌍 **$53–58B** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| prediction accuracy on psychometric NLP model | records processed by a resumable Neo4j pipeline | real Hinglish messages used to validate sentiment | Smart India Hackathon team rank | Ideathon 2.0, healthcare AI | elder-care market sized for SANGAM |
+
+</div>
 
 <br/>
 
-## / SELECTED BUILDS
+
+
+<br/>
 
 <details open>
-<summary><b>ChatLens &mdash; Corrective-RAG Chat Analyzer</b> &nbsp;&middot;&nbsp; <i>Flagship</i></summary>
+<summary><b>🧠 ChatLens — Corrective-RAG chat analyzer</b> &nbsp;·&nbsp; <i>flagship</i></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=a78bfa)
+![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logo=langchain&logoColor=a78bfa)
+![Ollama](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=a78bfa)
+![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=a78bfa)
 
-| Dimension | Implementation Details |
-| :--- | :--- |
-| **Engineering** | Fully local **CRAG** pipeline (LangGraph + Ollama) converting chat exports into a queryable knowledge system. An LLM grader rewrites and retries insufficient retrievals; a second verification pass enforces groundedness on every generation. |
-| **Evaluation** | Hinglish-aware sentiment analysis via batched local-LLM calls, outperforming traditional English lexicons across **6,000+** real code-mixed messages. |
-| **Product** | 100% offline with zero external API dependencies and zero data egress. The analytics layer (sentiment, response latency, engagement) is decoupled into deterministic Pandas routines. |
+| | |
+|---|---|
+| **🛠️ Engineering** | Fully local **CRAG** pipeline (LangGraph + Ollama) that turns WhatsApp exports into a queryable Q&A system. An LLM grader rewrites and retries weak retrievals; a second LLM pass verifies **groundedness** on every answer. |
+| **🧪 Evaluation** | Hinglish-aware sentiment via batched local-LLM calls, outperforming rule-based English lexicons across **6,000+** real code-mixed messages. |
+| **🚀 Product** | 100% offline, **zero API cost**, no data leaves the device. Analytics layer (sentiment, response time, engagement) is deterministic Pandas, fully decoupled from the LLM. |
 
 </details>
 
 <details>
-<summary><b>Cost-Aware LLM Router</b></summary>
+<summary><b>⚡ Cost-Aware LLM Router</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat-square&logo=duckdb&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=flat-square&logo=lightgbm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=a78bfa)
+![DuckDB](https://img.shields.io/badge/DuckDB-161b22?style=flat-square&logo=duckdb&logoColor=a78bfa)
+![LightGBM](https://img.shields.io/badge/LightGBM-161b22?style=flat-square&logo=lightgbm&logoColor=a78bfa)
 
-| Dimension | Implementation Details |
-| :--- | :--- |
-| **Engineering** | Routes prompts across a **3-tier Qwen** pool using per-model quality predictors trained on a ~2,000-prompt benchmark spanning reasoning, code generation, and factuality. |
-| **Data** | Outcome-matrix pipeline recording quality scores, token counts, latency profiles, and costs into a versioned **DuckDB / Parquet** telemetry store. |
-| **Product** | Benchmarked against fixed-tier, heuristic, and TF-IDF routers. Replaces the generic question of "which model is best" with "which model is worth the cost for this specific prompt". |
+| | |
+|---|---|
+| **🛠️ Engineering** | Routes prompts across a **3-tier Qwen3** pool using per-model quality predictors, trained on a ~2,000-prompt benchmark (reasoning, coding, factuality). |
+| **📊 Data** | Outcome-matrix pipeline logs quality, tokens, latency and cost into a versioned **DuckDB/Parquet** telemetry store. |
+| **🚀 Product** | Benchmarked against fixed-tier, heuristic and TF-IDF routers: the question isn't "which model is best", it's "which model is *worth it* for this prompt". |
 
 </details>
 
 <details>
-<summary><b>SANGAM &mdash; Elder-Care & Peer Community Platform</b></summary>
+<summary><b>🧓 SANGAM — Elder-care & community platform</b></summary>
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Product Strategy](https://img.shields.io/badge/Product_Strategy-000000?style=flat-square&logo=target&logoColor=white)
-![UX Psychology](https://img.shields.io/badge/UX_Research-000000?style=flat-square&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=a78bfa)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-161b22?style=flat-square&logo=target&logoColor=a78bfa)
+![UX Research](https://img.shields.io/badge/UX%20Psychology-161b22?style=flat-square&logo=figma&logoColor=a78bfa)
 
-| Dimension | Implementation Details |
-| :--- | :--- |
-| **Strategy** | Sized a **$53B-$58B** market opportunity (projected to **$114.6B by 2034**) and identified the unmet white space: uniting clinical safety nets with authentic peer communities. |
-| **Scoping** | Phased MVP supporting dual senior/caregiver accounts, schedule-based medication adherence, SOS dispatch, and a community feed. Intentionally deferred video and matching modules to minimize onboarding friction. |
-| **UX** | Design system rooted in geriatric cognitive psychology (visual contrast, motor control, memory overhead, trust signaling). |
+| | |
+|---|---|
+| **🧭 Strategy** | Sized a **$53–58B** market (→ **$114.6B by 2034**) and found the white space: no one pairs a clinical safety net with a real peer community. |
+| **📐 Scoping** | Phased MVP with dual senior/caregiver accounts, medication reminders, SOS alerts and a community feed. Companion-matching and video were cut on purpose to reduce onboarding complexity. |
+| **🎨 UX** | Psychology-grounded design system (vision, cognitive load, motor control, trust) turning ageing research into concrete requirements. |
 
 </details>
 
 <details>
-<summary><b>Additional Research & Systems</b></summary>
+<summary><b>🕸️ More builds</b></summary>
 <br/>
 
-- **onion-keyword-crawler**: Threat intelligence and OSINT utility that searches across multiple `.onion` indices and recursively traverses keyword-matched targets with incremental JSON persistence.
-- **Malware-analysis-system**: Feature-based ML detector leveraging 20+ engineered telemetry features and risk scoring (Scikit-learn, MySQL).
-- **Lip_Net**: Deep learning architecture exploring automated visual lip reading from video streams.
+- **🔍 onion-keyword-crawler**: OSINT / threat-intel tool that searches multiple `.onion` engines, then recursively crawls keyword-relevant pages, with incremental JSON persistence so interrupted runs lose nothing. Built for authorized research.
+- **🛡️ Malware-analysis-system**: Feature-based ML detector with 20+ engineered features and scoring-based prioritization (Scikit-learn, MySQL).
+- **👄 Lip_Net**: Deep-learning notebook exploring lip reading from video.
 
 </details>
 
 <br/>
 
-## / TECHNICAL & PRODUCT TOOLKIT
+## 🛠️ Stack
 
 <div align="center">
 
-**Languages & Data Systems**
+**Languages & Data**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
+![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=mysql&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![Pandas](https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=a78bfa)
+![DuckDB](https://img.shields.io/badge/DuckDB-161b22?style=for-the-badge&logo=duckdb&logoColor=a78bfa)
+![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=for-the-badge&logo=neo4j&logoColor=a78bfa)
 
-<br/>
+**AI / ML**
 
-**AI & Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=a78bfa)
+![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=for-the-badge&logo=langchain&logoColor=a78bfa)
+![Ollama](https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+`RAG` `Corrective RAG` `LLM Evaluation` `Groundedness Checking` `Prompt Engineering` `Vector DBs` `NLP` `Bayesian Inference`
 
-`RAG` &middot; `Corrective RAG` &middot; `LLM Evaluation` &middot; `Groundedness Verification` &middot; `Vector Search` &middot; `NLP` &middot; `Bayesian Inference`
+**Product & Tools**
 
-<br/>
+![Jira](https://img.shields.io/badge/Jira-161b22?style=for-the-badge&logo=jira&logoColor=a78bfa)
+![Confluence](https://img.shields.io/badge/Confluence-161b22?style=for-the-badge&logo=confluence&logoColor=a78bfa)
+![Figma](https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=a78bfa)
+![Notion](https://img.shields.io/badge/Notion-161b22?style=for-the-badge&logo=notion&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=a78bfa)
+![Power BI](https://img.shields.io/badge/Power%20BI-161b22?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=a78bfa)
+![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
 
-**Product Strategy & Engineering Operations**
-
-![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-`Product Roadmapping` &middot; `PRD Authoring` &middot; `MVP Scoping` &middot; `Market Sizing` &middot; `Competitive Teardowns` &middot; `User Research` &middot; `Agile / Scrum`
+`Roadmapping` `PRDs` `MVP Scoping` `Market Sizing` `Competitive Analysis` `User Research` `Agile / Scrum`
 
 </div>
 
 <br/>
 
-## / ENGINEERING ACTIVITY
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vVIBHORj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=999999&include_all_commits=true&count_private=true" height="155" alt="GitHub stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVIBHORj&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&langs_count=6" height="155" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vVIBHORj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVIBHORj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=6" height="165" alt="Top languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=vVIBHORj&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=vVIBHORj&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak"/>
 
 </div>
 
 <br/>
 
-## / CURRENT DIRECTION
+## 🧩 Currently
 
 ```diff
-+ Building  : Local-first AI systems engineered against silent hallucination
-+ Exploring : Dynamic LLM routing, benchmark telemetry, and cost-quality frontiers
-+ Studying  : Methodologies for scoping, measuring, and scaling high-conviction AI products
-+ Focus     : Open to AI/ML Engineering and AI Product Management roles
++ Building: local-first AI systems that don't hallucinate quietly
++ Exploring: LLM routing, evaluation and cost-quality tradeoffs
++ Learning: how great AI products get scoped, measured and shipped
++ Open to: AI/ML engineering and AI product roles
 ```
 
 <br/>
 
 <div align="center">
 
-<img src="assets/view_eye.png" width="46" alt="Profile Views" align="center" />
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=000000&labelColor=161b22&label=TOTAL+VIEWS" alt="Profile views" align="center" />
+<sub>
 
-<br/><br/>
+```text
+☕ coffee → code  ·  💡 idea → prototype  ·  🐛 bug → lesson  ·  🚀 project → product
+```
 
-<img src="assets/quotes-frame.svg" width="680" alt="Philosophical Maxims" />
+</sub>
 
-<br/><br/>
-
-<sub><i>vVibhorj &middot; Systems & Product Architecture</i></sub>
+<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br/>
-
-<div align="left">
-<img src="assets/frame.png" width="150" alt="Corner ornament" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8b5cf6,50:5b21b6,100:0d1117&section=footer" width="100%" alt="footer"/>
