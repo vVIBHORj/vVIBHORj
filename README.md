@@ -15,10 +15,7 @@
 ![Product](https://img.shields.io/badge/Aspiring-AI%20Product%20Manager-8b5cf6?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=161b22)
 
 
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
-</div>
+
 
 
 <br/>
@@ -200,6 +197,11 @@
 
 <img src="https://streak-stats.demolab.com/?user=vVIBHORj&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak"/>
 
+</div>
+
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 <br/>
