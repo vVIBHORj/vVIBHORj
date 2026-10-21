@@ -16,6 +16,10 @@
 
 
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
 
 <br/>
 
@@ -221,7 +225,6 @@
 
 </sub>
 
-<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
