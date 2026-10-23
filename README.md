@@ -15,7 +15,10 @@
 ![Product](https://img.shields.io/badge/Aspiring-AI%20Product%20Manager-8b5cf6?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=161b22)
 
 
-
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
 
 
 <br/>
