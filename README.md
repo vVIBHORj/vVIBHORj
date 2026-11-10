@@ -196,9 +196,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vVIBHORj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVIBHORj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=6" height="165" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com/?user=vVIBHORj&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak"/>
 
 </div>
