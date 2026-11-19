@@ -171,6 +171,12 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=for-the-badge&logo=langchain&logoColor=a78bfa)
 ![Ollama](https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=a78bfa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
+![MLflow](https://img.shields.io/badge/MLflow-161b22?style=for-the-badge&logo=mlflow&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=a78bfa)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=a78bfa)
+![DVC](https://img.shields.io/badge/DVC-161b22?style=for-the-badge&logo=dvc&logoColor=a78bfa)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-161b22?style=for-the-badge&logo=weightsandbiases&logoColor=a78bfa)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=a78bfa)
 
 `RAG` `Corrective RAG` `LLM Evaluation` `Groundedness Checking` `Prompt Engineering` `Vector DBs` `NLP` `Bayesian Inference`
 
