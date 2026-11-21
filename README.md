@@ -81,9 +81,7 @@
 
 <br/>
 
-
-
-<br/>
+## 🧱 Projects
 
 <details open>
 <summary><b>🧠 ChatLens — Corrective-RAG chat analyzer</b> &nbsp;·&nbsp; <i>flagship</i></summary>
@@ -99,6 +97,38 @@
 | **🛠️ Engineering** | Fully local **CRAG** pipeline (LangGraph + Ollama) that turns WhatsApp exports into a queryable Q&A system. An LLM grader rewrites and retries weak retrievals; a second LLM pass verifies **groundedness** on every answer. |
 | **🧪 Evaluation** | Hinglish-aware sentiment via batched local-LLM calls, outperforming rule-based English lexicons across **6,000+** real code-mixed messages. |
 | **🚀 Product** | 100% offline, **zero API cost**, no data leaves the device. Analytics layer (sentiment, response time, engagement) is deterministic Pandas, fully decoupled from the LLM. |
+
+</details>
+
+<details>
+<summary><b>🛰️ SatView — what was overhead, and what did it see?</b> &nbsp;·&nbsp; <i>in progress</i></summary>
+<br/>
+
+![Ollama](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=a78bfa)
+![Web App](https://img.shields.io/badge/Website-161b22?style=flat-square&logo=googlechrome&logoColor=a78bfa)
+![Open Data](https://img.shields.io/badge/Free%20%26%20Public%20Data-161b22?style=flat-square&logo=opendatasoft&logoColor=a78bfa)
+
+| | |
+|---|---|
+| **🛠️ Engineering** | Enter a date, time and location and SatView shows which satellites were above that spot, plus the public imagery they captured. A local **Ollama** model sits on top to help explain what you're looking at. |
+| **📊 Data** | Built only on publicly available, free data sources. No paid APIs, no gated imagery. |
+| **🚀 Product** | One question, three inputs, one answer. A plan document covers which data is public and what the first version includes. |
+
+</details>
+
+<details>
+<summary><b>📖 Book Scene — turn a book into a living ASCII picture</b> &nbsp;·&nbsp; <i>in progress</i></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=a78bfa)
+![Gemini](https://img.shields.io/badge/Gemini%20API-161b22?style=flat-square&logo=googlegemini&logoColor=a78bfa)
+![Terminal](https://img.shields.io/badge/Terminal%20App-161b22?style=flat-square&logo=windowsterminal&logoColor=a78bfa)
+
+| | |
+|---|---|
+| **🛠️ Engineering** | Type a book's name in the terminal and a second screen animates a colored ASCII scene of its most important person, place or object, drawn from the book's own words in sequence. Gemini handles the language side. |
+| **📐 Scoping** | Public-domain books only, so the source text is always free to use. The canvas adapts to the size of the terminal window. |
+| **🚀 Product** | Starts as a simple terminal app: ask for a book, open a second screen, build the scene. Plan first, then code. |
 
 </details>
 
@@ -170,6 +200,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=a78bfa)
 ![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=for-the-badge&logo=langchain&logoColor=a78bfa)
 ![Ollama](https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=a78bfa)
+![Gemini](https://img.shields.io/badge/Gemini%20API-161b22?style=for-the-badge&logo=googlegemini&logoColor=a78bfa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
 ![MLflow](https://img.shields.io/badge/MLflow-161b22?style=for-the-badge&logo=mlflow&logoColor=a78bfa)
 ![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=a78bfa)
@@ -206,7 +237,6 @@
 
 </div>
 
-</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vVIBHORj&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
@@ -217,6 +247,7 @@
 
 ```diff
 + Building: local-first AI systems that don't hallucinate quietly
++ Shipping: SatView (satellite lookup on free data) and Book Scene (books as ASCII art)
 + Exploring: LLM routing, evaluation and cost-quality tradeoffs
 + Learning: how great AI products get scoped, measured and shipped
 + Open to: AI/ML engineering and AI product roles
